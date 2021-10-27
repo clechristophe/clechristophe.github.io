@@ -1,6 +1,6 @@
 # Clément Christophe - Research Engineer / Data Scientist @ EDF
 
-I work as a Research Engineer / Data Scientist for the Research & Development department of EDF, the French main electricity provider. I worked on my Ph.D. with EDF and ERIC Laboratory of University Lyon 2 until March 2021 when I defended my work on "Detecting novelty as soon as possible on textual data streams". I am currently working on several NLP projects in order to increase client satisfaction but also with time series for the electricity market.
+I work as a Research Engineer / Data Scientist for the Research & Development department of EDF, the French main electricity provider. I worked on my Ph.D. with EDF and ERIC Laboratory of University Lyon 2 until March 2021 when I defended my work on "Detecting novelty as soon as possible on textual data streams". I am currently working on several NLP projects in order to increase client satisfaction but also with time series for electricity markets.
 
 ## Formations :
 
