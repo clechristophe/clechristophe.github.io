@@ -1,8 +1,6 @@
-# Clément Christophe - Research Engineer / Data Scientist @ EDF
-
 I work as a Research Engineer / Data Scientist for the Research & Development department of EDF, the French main electricity provider. I worked on my Ph.D. with EDF and ERIC Laboratory of University Lyon 2 until March 2021 when I defended my work on "Detecting novelty as soon as possible on textual data streams". I am currently working on several NLP projects in order to increase client satisfaction but also with time series for electricity markets.
 
-## Formations :
+# Formations :
 
 2018-2021 – PhD Student working on [“Novelty Detection in textual data streams”](http://www.theses.fr/2021LYSE2026) under the supervision of [Julien Velcin](https://eric.univ-lyon2.fr/~jvelcin/index.php?choix=4) and [Jairo Cugliari](https://julienas.univ-lyon2.fr/jcugliari/).
 @ [Eric Lab](https://eric.msh-lse.fr/) and [EDF](https://www.edf.fr/groupe-edf/inventer-l-avenir-de-l-energie/r-d-un-savoir-faire-mondial)
@@ -10,7 +8,7 @@ I work as a Research Engineer / Data Scientist for the Research & Development de
 2012-2017 – Master’s degree in Telecommunication and Network Engineering with specialization in distributed architectures, big data and machine learning.
 @ [IMT Lille-Douai]()
 
-## Work Experience:
+# Work Experience:
 
 2021-Current – Data Scientist, Researcher @ [EDF R&D](https://www.edf.fr/groupe-edf/inventer-l-avenir-de-l-energie/r-d-un-savoir-faire-mondial)
 
@@ -18,7 +16,7 @@ January – July 2017 – Assistant Researcher. @ [Eric Lab](https://eric.msh-ls
 
 Topic: “Detection of weak signal using probabilistic methods”. Weak signal can easily be confused with noise. I used natural language processing and topic-modeling techniques in order to detect novel documents in text streams related to customer feedback. I proposed and developed a software in Python (Numpy, Gensim) that can compare topics built with different corpora and extract novel document.
 
-## List of publications
+# List of publications
 
 [**Monitoring geometrical properties of word embeddings for detecting the emergence of new topics**]() In Empirical Methods in Natural Language Processing, EMNLP 2021. Clément Christophe, Julien Velcin, Jairo Cugliari, Manel Boumghar, Philippe Suignard
 
