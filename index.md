@@ -18,7 +18,7 @@ Topic: “Detection of weak signal using probabilistic methods”. Weak signal c
 
 # List of publications
 
-[**Monitoring geometrical properties of word embeddings for detecting the emergence of new topics**]() In Empirical Methods in Natural Language Processing, EMNLP 2021. Clément Christophe, Julien Velcin, Jairo Cugliari, Manel Boumghar, Philippe Suignard
+[**Monitoring geometrical properties of word embeddings for detecting the emergence of new topics**](https://arxiv.org/abs/2111.03496) In Empirical Methods in Natural Language Processing, EMNLP 2021. Clément Christophe, Julien Velcin, Jairo Cugliari, Manel Boumghar, Philippe Suignard
 
 [**Change detection in textual classification with unexpected dynamics.**](https://www.sciencedirect.com/science/article/abs/pii/S0957417421002724) In Expert Systems with Applications, ESWA 2021. Clément Christophe, Julien Velcin, Jairo Cugliari, Philippe Suignard, Manel Boumghar
 
