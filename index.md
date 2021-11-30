@@ -25,3 +25,7 @@ Topic: “Detection of weak signal using probabilistic methods”. Weak signal c
 [**How to detect novelty in textual data streams? A comparative study of existing methods.**](https://arxiv.org/abs/1909.05099) In AALTD Workshop @ECML-PKDD 2019. Clément Christophe, Julien Velcin, Jairo Cugliari, Philippe Suignard, Manel Boumghar
 
 [**Utilisation de techniques de modélisation thématiques pour la détection de nouveauté dans des flux de données textuelles.**](https://editions-rnti.fr/?inprocid=1002383) In EGC 2018, vol. RNTI-E-34, pp.239-250.Clément Christophe, Julien Velcin, Manel Boumghar
+
+# Thesis
+
+[**Détection de nouveauté au plus tôt dans des flux de données textuelles.**](https://tel.archives-ouvertes.fr/tel-03386136) Clément Christophe, defended on March 15th 2021
