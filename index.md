@@ -12,6 +12,8 @@ I work as a Research Engineer / Data Scientist for the Research & Development de
 
 2021-Current – Data Scientist, Researcher @ [EDF R&D](https://www.edf.fr/groupe-edf/inventer-l-avenir-de-l-energie/r-d-un-savoir-faire-mondial)
 
+2017-2021 - PhD Student, Data Scientist @ [EDF R&D](https://www.edf.fr/groupe-edf/inventer-l-avenir-de-l-energie/r-d-un-savoir-faire-mondial)
+
 January – July 2017 – Assistant Researcher. @ [Eric Lab](https://eric.msh-lse.fr/)
 
 Topic: “Detection of weak signal using probabilistic methods”. Weak signal can easily be confused with noise. I used natural language processing and topic-modeling techniques in order to detect novel documents in text streams related to customer feedback. I proposed and developed a software in Python (Numpy, Gensim) that can compare topics built with different corpora and extract novel document.
