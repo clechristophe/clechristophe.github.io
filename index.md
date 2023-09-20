@@ -1,8 +1,12 @@
-I work as a Research Engineer / Data Scientist for the Research & Development department of EDF, the French main electricity provider. I worked on my Ph.D. with EDF and ERIC Laboratory of University Lyon 2 until March 2021 when I defended my work on "Detecting novelty as soon as possible on textual data streams". I am currently working on several NLP projects in order to increase client satisfaction but also on anomaly detection algorithms for time series of electricity production data.
+I am currently a Senior Applied Scientist at G42 Healthcare in Abu Dhabi, UAE. I am specialized in NLP projects for the healthcare sector: training LLMs, NER, NEL, information extraction. I am working with large models and very big data in order to improve patient care in the UAE.
 
 # Work Experience:
 
-2017-Current – Data Scientist, Researcher @ [EDF R&D](https://www.edf.fr/groupe-edf/inventer-l-avenir-de-l-energie/r-d-un-savoir-faire-mondial)
+2023-Current - Senior Applied Scientist, NLP @ [G42](https://www.g42healthcare.ai/)
+
+2017-2023 – Data Scientist, Researcher @ [EDF R&D](https://www.edf.fr/groupe-edf/inventer-l-avenir-de-l-energie/r-d-un-savoir-faire-mondial)
+
+I worked as a Research Engineer / Data Scientist for the Research & Development department of EDF, the French main electricity provider. I worked on my Ph.D. with EDF and ERIC Laboratory of University Lyon 2 until March 2021 when I defended my work on "Detecting novelty as soon as possible on textual data streams". I was working on several NLP projects in order to increase client satisfaction but also on anomaly detection algorithms for time series of electricity production data.
 
 January – July 2017 – Assistant Researcher. @ [Eric Lab](https://eric.msh-lse.fr/)
 
